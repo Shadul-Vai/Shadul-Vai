@@ -14,9 +14,7 @@
 
 <br>
 
-<p align="center">
-  A passionate CSE student and MERN stack developer with 190+ LeetCode solutions. Started with C/C++, mastered Java OOP, and now build full-stack applications using React, Node.js, and MongoDB. Love turning ideas into real-world projects through continuous learning.
-</p>
+### <p align="center">A passionate CSE student and MERN stack developer with 190+ LeetCode solutions. Started with C/C++, mastered Java OOP, and now build full-stack applications using React, Node.js, and MongoDB. Love turning ideas into real-world projects through continuous learning.</p>
 
 <br>
 <br>
