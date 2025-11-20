@@ -140,23 +140,10 @@
   
   <a href="https://github.com/Shadul-Coder">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shadul-Coder&theme=city_lights" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadul-Coder&theme=city_lights" height="180em" />
+
   </a>
-  
-  <br>
-  <br>
-  
   <a href="https://github.com/Shadul-Coder">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadul-Coder&langs_count=8&theme=react&hide_border=true" alt="Shadul-Coder" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shadul-Coder&theme=react" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shadul-Coder&theme=react" height="180em" />
   </a>
   
 </div>
-
-<br>
-<br>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shadul-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shadul-coder" /> 
-</p>
